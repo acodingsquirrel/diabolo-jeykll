@@ -1,10 +1,10 @@
 ---
 layout: default
-title: A website for diablo beginners
+title: The Art to Play Diabolo
 ---
 
 <!-- ![cats and cucumbers](/images/diabolo1.jpg){:class="img-responsive"} -->
 
-This site is directed to diabolo beginners.
-It aims to give overview about information sources.
+This site is directed to diabolo beginners.  
+It aims to give overview about information sources.  
 Further it attempts to explain basic equipment.
