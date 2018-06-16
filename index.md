@@ -3,7 +3,7 @@ layout: default
 title: The Art to Play Diabolo
 ---
 
-<!-- ![cats and cucumbers](/images/diabolo1.jpg){:class="img-responsive"} -->
+![cats and cucumbers](/images/diabolo1.jpg){:class="img-responsive"}
 
 This site is directed to diabolo beginners.  
 It aims to give overview about information sources.  

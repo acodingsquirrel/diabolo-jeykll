@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Tricks"
+title:  "Diabolo Tricks"
 ---
 
 ![cats and cucumbers](/images/diabolo3.jpg){:class="img-responsive"}
@@ -19,4 +19,4 @@ There is a huge variety of diabolo tricks. Also diabolo is a creative sport and 
 There are body combination, where one makes the diabolo jump around body parts.
 Then there are whips to catch falling diabolos out of the air. Then there are suicides and genocides. In these tricks players let go of one or both sticks.
 Also there are ways to play a diabolo vertical and it is possible to use more than one diabolo at the same time. The varity is huge.
-For some inspirations one can see the <a href="Show.html" padding-left: 0px>Show</a> section.
+For some inspirations one can see the <a href="/pages/shows.html">Shows</a> section.
