@@ -3,9 +3,7 @@ layout: default
 title: Shows
 ---
 
-<video src="/images/video1.mp4" controls="controls" type="video/mp4">
-   Ihr Browser kann dieses Video nicht wiedergeben.<br/>
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-2e9Da8C3E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This is part of the juggling clip series "salad".
 

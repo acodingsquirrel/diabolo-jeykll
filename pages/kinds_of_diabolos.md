@@ -7,8 +7,8 @@ title: Different Diabolos
 
   <h2>Different Diabolos</h2>
 
-  There are two different types of diabolos. Types without and types with bearings.
-  Diabolos without bearings are more common. They soly use the acceleration given by the player.
+There are two different types of diabolos. Types without and types with bearings.
+Diabolos without bearings are more common. They soly use the acceleration given by the player.
 
   Bearing diabolos keep the velocity longer and accelerate faster.
   For a beginner this is a good choice, because one can hold the diabolo in one position longer and think about the next move in a sequence.

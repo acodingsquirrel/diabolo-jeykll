@@ -1,6 +1,6 @@
 body {
   padding-top: 5rem;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .starter-template {
@@ -11,9 +11,26 @@ body {
 img {
     width: 70%;
     height: auto;
+    text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 video {
     width: 70%;
     height: auto;
+}
+
+.apfel h2 {
+  color: red;
+}
+
+.apfel:hover {
+  font-size: 120%
+}
+
+#birne {
+  color: yellow;
 }
