@@ -1,6 +1,5 @@
 # Meine erste Webseite mit Jekyll
 
-## Hintergrund Wissen zu Jekyll
 Ordner bei Jekyl:
 
 * Unwitchtig / ignorieren: _drafts, _posts, .sass_cache
