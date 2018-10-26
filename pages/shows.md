@@ -12,4 +12,3 @@ This is part of the juggling clip series "salad".
 </video>
 
 This video shows Pranay Werner play in 2011.
-Hello
