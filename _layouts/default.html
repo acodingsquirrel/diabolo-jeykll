@@ -13,10 +13,12 @@
     <!-- Bootstrap core CSS -->
 
       <!--link rel="stylesheet" href="https://bootswatch.com/4/united/bootstrap.min.css">-->
-      <link href="{{ "/bootstrap.min.css" | relative_url }}" rel="stylesheet">
+      <!--<link href="/bootstrap.min.css" rel="stylesheet">-->>
+      <link href="{{ "/bootstrap.min.css" | absolute_url }}" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="{{ "/website.css" | relative_url }}" rel="stylesheet">
+    <!-- <link href="/website.css" rel="stylesheet"-->>
+    <link href="{{ "/website.css" | absolute_url }}" rel="stylesheet">
   </head>
 
   <body>
