@@ -3,7 +3,7 @@ layout: default
 title:  "Diabolo Tricks"
 ---
 
-![cats and cucumbers]({{ "/images/diabolo3.jpg" | relative_url }}){:class="img-responsive"}
+![Diabolo Juggling]({{ "/images/diabolo3.jpg" | relative_url }}){:class="img-responsive"}
 
 # Sources of Inspiration
 

@@ -3,7 +3,7 @@ layout: default
 title: The Art to Play Diabolo
 ---
 
-![cats and cucumbers](/images/diabolo1.jpg){:class="rounded mx-auto d-block"}
+![Diabolo Juggling](/images/diabolo1.jpg){:class="rounded mx-auto d-block"}
 
 ## About The Art to Play Diabolo
 
