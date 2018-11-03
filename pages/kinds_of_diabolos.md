@@ -3,7 +3,7 @@ layout: default
 title: Different Diabolos
 ---
 
-![cats and cucumbers]({ "/images/diabolo5.jpg" | relative_url }){:class="img-responsive"}
+![cats and cucumbers]({{ "/images/diabolo5.jpg" | relative_url }}){:class="img-responsive"}
 
   <h2>Different Diabolos</h2>
 
