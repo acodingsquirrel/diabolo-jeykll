@@ -21,7 +21,7 @@ Diabolos without bearings are more common. They soly use the acceleration given 
   For a beginner a good starting diabolo without bearings could be from the brand Henry or Taibolo. A good diabolo with bearings comes from Sundia.
   Here I would not recommend a Henry's diabolo, because the axle is very wide. For a beginner that makes it harder to keep the balance.
 
-  <h2>Different Sticks</h2>
+# Different Sticks
   Sticks differ in material and the length. Fiber sticks are elastic and therefore easier on the wrist. Metal sticks are more robust and endure longer.
 
   The most common way to break a stick is by making them accidently hit the ground repeadetly or throwing the sticks without catching them repeadetly.
@@ -30,6 +30,6 @@ Diabolos without bearings are more common. They soly use the acceleration given 
   The length of a stick has mostly two effects. It makes the diabolo gain spin faster. It also makes it harder on the wrist.
   This is just noticed by the player after multiple hours of practice.
 
-  <h2>String Length</h2>
+# String Length
   A good string length is, if one can step on one stick and then pull the other stick up to ones brest. This is a good lenght for most tricks.
   One will realize that some tricks are easier with adjusted string lenght.
