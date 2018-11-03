@@ -5,7 +5,7 @@ title: Different Diabolos
 
 ![Diabolo Juggling]({{ "/images/diabolo5.jpg" | relative_url }}){:class="img-responsive"}
 
-  # Different Diabolos
+# Different Diabolos
 
 There are two different types of diabolos. Types without and types with bearings.
 Diabolos without bearings are more common. They soly use the acceleration given by the player.
